@@ -69,4 +69,8 @@ The displayed images are resized for convenient viewing. The original image data
 
 ## Results
 
-The program successfully loaded and processed the X-ray
+The program successfully loaded and processed the X-ray.
+
+## Disclaimer
+
+This project is for educational purposes only. It explores basic X-ray image processing techniques and is not intended for medical diagnosis or clinical decision-making.
